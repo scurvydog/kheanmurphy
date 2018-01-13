@@ -1,4 +1,11 @@
-h1 {
-  color: #f00; }
+/* $red: #e21a23; */
+#sidebar {
+  background-color: #e21a23; }
+  #sidebar .logo {
+    margin: 0; }
+
+.wrapper {
+  margin: 0 !important;
+  max-width: 100% !important; }
 
 /*# sourceMappingURL=style.css.map */

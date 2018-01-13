@@ -1,3 +1,14 @@
-h1 {
-color: #f00;
+/* $red: #e21a23; */
+$red: rgb(226,26,35);
+
+#sidebar { 
+	background-color: $red; 
+	.logo {
+		margin: 0;
+	}
+}
+
+.wrapper { 
+	margin: 0 !important; 
+    max-width: 100% !important; 
 }
